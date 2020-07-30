@@ -12,9 +12,9 @@
   </a>
 </p>
 
-🌱 I’m currently learning **Nodejs, Typescript - ReactJS e React Native**
+🚀 I'm currently focused on technologies **Nodejs, Typescript - ReactJS e React Native**
 
-📫 How to reach me **leandroguezinjunior@gmail.com**
+
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
