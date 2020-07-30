@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://twitter.com/@guezinjr" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@guezinjr" height="20" width="20" />
-  </a>
   <a href="https://linkedin.com/in/www.linkedin.com/in/leandro-guezin-jr" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/leandro-guezin-jr" height="20" width="20" />
+  </a>
+  <a href="https://twitter.com/@guezinjr" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@guezinjr" height="20" width="20" />
   </a>
 </p>
 
